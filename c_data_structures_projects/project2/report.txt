@@ -1,0 +1,47 @@
+//Manoj Adhikari
+//Project 2
+//This is the report of execution time that my function took while executing with different files listed below.
+
+unique
+------
+                              unsorted  sorted
+GreenEggsAndHam.txt             0.005    0.005
+Macbeth.txt                     0.104    0.023
+Genesis.txt                     0.105    0.022
+HoundOfTheBaskervilles.txt      0.320    0.052
+TheWarOfTheWorlds.txt           0.432    0.068
+TreasureIsland.txt              0.385    0.062
+TheSecretGarden.txt             0.355    0.054
+TheCountOfMonteCristo.txt       4.743    0.431
+TwentyThousandLeagues.txt       0.878    0.114
+Bible.txt                       5.118    0.417
+
+
+bincount
+--------
+                              unsorted  sorted
+GreenEggsAndHam.txt             0.005    0.005
+Macbeth.txt                     0.021    0.012
+Genesis.txt                     0.023    0.014
+HoundOfTheBaskervilles.txt      0.052    0.023
+TheWarOfTheWorlds.txt           0.065    0.025
+TreasureIsland.txt              0.067    0.026
+TheSecretGarden.txt             0.062    0.027
+TheCountOfMonteCristo.txt       0.670    0.156
+TwentyThousandLeagues.txt       0.122    0.040
+Bible.txt                       0.810    0.212
+
+
+parity
+------
+                              unsorted  sorted
+GreenEggsAndHam.txt             0.005    0.005
+Macbeth.txt                     0.354    0.072
+Genesis.txt                     0.435    0.083
+HoundOfTheBaskervilles.txt      1.701    0.295
+TheWarOfTheWorlds.txt           2.023    0.470
+TreasureIsland.txt              2.073    0.396
+TheSecretGarden.txt             1.902    0.358
+TheCountOfMonteCristo.txt       39.844   5.841
+TwentyThousandLeagues.txt       4.763    0.885
+Bible.txt                       44.621   5.650
